@@ -1,0 +1,53 @@
+# Projects
+
+## Introduction
+
+A side project or two is something I've always wanted to do. Tying them togething into blog posts or similar.
+
+These projects could be work related, or not, but either way I'd like to be doing something in my spare time beyond phone scrolling and videogames.
+
+Previous attempts start really well but inevitibly peeter out due to feeling "overwhelmed". My theory is this is due to
+
+1. Having too many different projects to work on
+2. Having each project be too ambitious
+3. Having projects that are too ambitious
+4. Having too much overhead to working on each project
+   * ie: always trying to plan the project out
+5. Spending too much time at the project when I do sit down
+
+I think each of these things can be overcome by setting some ground rules to working on side projects going forward.
+
+The outcome I want is to:
+
+> Work on side projects at a regular and sustainable cadence
+
+## Project work guidelines
+
+The guidelines will be roughly:
+
+1. Work on projects 3 times a week
+2. Project work is timeboxed to a single hour at a time, no overages
+3. No organizational overhead or requirements
+   * This means no issues, no planning, no workflows getting in my way
+
+With the above I should be able to just do things without feeling the overhead of doing things properly.
+
+In practice this could look like:
+
+* Reading a book and using this liveview to take notes and write out working code.
+* Commiting straight to `main` in a Repo
+* Not needing to plan out the things I want to do in a project ahead of time
+
+The idea is to make this feel as little as "work" as possible. So that means allowing for some inherit "messiness" and following where my engagement is at.
+
+Finally, I am going to be avoiding books to begin with. There's many good books I should probably read to make me a better developer but gosh do I find they sap the joy out. They also lead me to needing to "complete" the book by writing mass amounts of notes, implementing the examples, etc.
+
+## Ideas
+
+Should probably have some ideas. Here they are
+
+1. Re-do my personal site (again)
+2. Advent of Code
+3. Game of Life
+
+...
