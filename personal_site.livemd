@@ -1,0 +1,23 @@
+# Personal Site
+
+## Intro
+
+Every developer should have a website right? Well, I have one but I don't like it.
+
+I believe it's built on Hugo right now and done via github. Which is fine but I don't love the look of it.
+
+I definitely don't want to spend a ton of time working on and creating the site. So something plug and play would be really nice.
+
+Looking at https://jamstack.org/generators/ gave me a good idea of what static site generators are out there.
+
+Hugo is up there but I don't really use or work with Go. I'd like to switch to something based on JS or Elixir.
+
+Looking into Nuxt.js and Gatsby I went with Gatsby because I won't really be changing the content of the site much. I also decided to not think about it that much...
+
+## Gatsby
+
+I got gatsby up and running really quickly, which was nice. But it was a bit more involved than I was hoping and I kinda want a no code solution.
+
+Using Gatsby would require learning React, which would be fine but would be taking on more than a single thing at a time. 
+Possibly Nuxt is the way to go as I am familiar with Vue. 
+Again there is coding for me to do with Nuxt. And I was kinda hoping to avoid that and all the thought that goes into designing a website.
