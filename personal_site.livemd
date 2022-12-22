@@ -21,3 +21,24 @@ I got gatsby up and running really quickly, which was nice. But it was a bit mor
 Using Gatsby would require learning React, which would be fine but would be taking on more than a single thing at a time. 
 Possibly Nuxt is the way to go as I am familiar with Vue. 
 Again there is coding for me to do with Nuxt. And I was kinda hoping to avoid that and all the thought that goes into designing a website.
+
+## Nuxt
+
+I started fiddling around with [nuxt content](https://content.nuxtjs.org/get-started) and it was really fast to start.
+
+I then found that customizing styles and navigation links etc. was a lot more arduous than I wanted it to be.
+
+I suppose that Nuxt Content made it super simple to spin up a md file driven blog while leaving a ton of ability to make things custom.
+Some of my confusion is likely due to the difference in Vue from when I used it as well as being unfamiliar with nuxt itself.
+
+I did quite like using it, however. And getting some more custom styling up and running was pretty neato and fast.
+
+Using the two above has made me wonder if I should just go for rolling something in Elixir and LiveView. It would be good to step out of the Elixir ecosystem and into something different...
+
+## Decision
+
+I feel like I could waffle about this all day. I think I am going to settle on some combo of Nuxt/Nuxt Content.
+
+At the end of it all I prefer the syntax of Vue over React and at least I have some base familiarity with Vue.
+
+Likely I will start with a crazy simple configuration and expand it from there.
